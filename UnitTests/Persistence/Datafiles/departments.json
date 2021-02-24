@@ -1,0 +1,11 @@
+[
+  [
+    {
+      "ID": 1,
+      "Created": "2020-01-01 10:30:00",
+      "RowVersion": "abcdef",
+      "Name": "HR",
+      "Description": "The HR Department"
+    }
+  ]
+]
